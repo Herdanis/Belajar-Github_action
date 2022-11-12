@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello World")
-	fmt.Println("Hello A")
+	fmt.Println("Ini di Master Branch A sudah Merged")
 }
